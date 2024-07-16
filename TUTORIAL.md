@@ -94,7 +94,7 @@ To put a fixed timestamp, go to `Options` -> `Others` -> `Fixed timestamp`
 To disable or enable check update, go to `Options` -> `Others` -> `Check update`
 \
 \
-If you encounter any issue or you want to request an update. Please open an [issue](https://github.com/LOUDO56/PyMacroRecord/issues)!
+If you encounter any issue or you want to request an update. Please open an [issue](https://github.com/rune-scape/PyMacroRecord/issues)!
 
 
 

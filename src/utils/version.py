@@ -12,7 +12,7 @@ class Version:
             self.update = self.main_app.text_content["help_menu"]["about_settings"]["version_check_update_text"]["disabled"]
 
     def checkVersion(self):
-        api_url = f'https://api.github.com/repos/LOUDO56/PyMacroRecord/releases/latest'
+        api_url = f'https://api.github.com/repos/rune-scape/PyMacroRecord/releases/latest'
 
         try:
             response = requests.get(api_url)

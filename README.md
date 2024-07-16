@@ -1,18 +1,18 @@
 # PyMacroRecord
 <div align="center">
-  <a href="https://github.com/LOUDO56/PyMacroRecord/releases"><img src="https://github.com/LOUDO56/PyMacroRecord/assets/117168736/ff16ba4d-7979-4719-bb8f-78587cb5032f" alt="pmr logo"></a>
+  <a href="https://github.com/rune-scape/PyMacroRecord/releases"><img src="https://github.com/rune-scape/PyMacroRecord/assets/117168736/ff16ba4d-7979-4719-bb8f-78587cb5032f" alt="pmr logo"></a>
   <p>
     Free. Easy <br>
     Coded with Python, PyMacroRecord is one of the best free macro recorder you will find. <br>
     No <b>ads</b>, no <b>premium</b>, everything <b>FREE</b>
   </p>
-  <a href="https://github.com/LOUDO56/PyMacroRecord/releases"><img alt="PyMacroRecord count download" src="https://img.shields.io/github/downloads/LOUDO56/PyMacroRecord/total?label=Downloads"/></a>
+  <a href="https://github.com/rune-scape/PyMacroRecord/releases"><img alt="PyMacroRecord count download" src="https://img.shields.io/github/downloads/rune-scape/PyMacroRecord/total?label=Downloads"/></a>
 </div>
 
 
 # Overview
 PyMacroRecord works with a GUI made using tkinter, making it easier for users to interact with it.
-![image](https://github.com/LOUDO56/PyMacroRecord/assets/117168736/2a1b2d0e-d950-40ad-84e2-971464058664)
+![image](https://github.com/rune-scape/PyMacroRecord/assets/117168736/2a1b2d0e-d950-40ad-84e2-971464058664)
 
 # Features
 - Very Easy to use
@@ -49,7 +49,7 @@ And to stop the playback, press the `f3` key (By default).
 
 
 
-https://github.com/LOUDO56/PyMacroRecord/assets/117168736/ac77b7b6-02d0-4c12-a71a-65119c4acc59
+https://github.com/rune-scape/PyMacroRecord/assets/117168736/ac77b7b6-02d0-4c12-a71a-65119c4acc59
 
 
 ## macOS
@@ -58,7 +58,7 @@ https://github.com/LOUDO56/PyMacroRecord/assets/117168736/ac77b7b6-02d0-4c12-a71
 
 
 
-https://github.com/LOUDO56/PyMacroRecord/assets/117168736/2e8d8a85-c96b-4906-b8d9-b91de2c3d35b
+https://github.com/rune-scape/PyMacroRecord/assets/117168736/2e8d8a85-c96b-4906-b8d9-b91de2c3d35b
 
 
 
@@ -74,7 +74,7 @@ https://github.com/LOUDO56/PyMacroRecord/assets/117168736/2e8d8a85-c96b-4906-b8d
 
 
 
-https://github.com/LOUDO56/PyMacroRecord/assets/117168736/25ab7c60-9f48-425f-bd5f-68c8b76e4c9c
+https://github.com/rune-scape/PyMacroRecord/assets/117168736/25ab7c60-9f48-425f-bd5f-68c8b76e4c9c
 
 
 
@@ -83,11 +83,11 @@ https://github.com/LOUDO56/PyMacroRecord/assets/117168736/25ab7c60-9f48-425f-bd5
 
 
 # For bug reports or update requests
-If you encounter a bug or want to request an update, simply create an issue [here](https://github.com/LOUDO56/PyMacroRecord/issues)
+If you encounter a bug or want to request an update, simply create an issue [here](https://github.com/rune-scape/PyMacroRecord/issues)
 
 # For people who don't have windows or don't want to use exe file
 - First, if you didn't already, install [Python](https://www.python.org/downloads/)
-- Download the last source code release [here](https://github.com/LOUDO56/PyMacroRecord/releases)
+- Download the last source code release [here](https://github.com/rune-scape/PyMacroRecord/releases)
 
 - Extract it wherever you want.
 - Open the terminal and type `cd <PATH TO SOFTWARE FOLDER>`
@@ -129,7 +129,7 @@ By making a donation, your name will appear in the "Donors" section of the PyMac
 
 # License
 
-This program is under [GNU General Public License v3.0](https://github.com/LOUDO56/PyMacroRecord/blob/main/LICENSE.md)
+This program is under [GNU General Public License v3.0](https://github.com/rune-scape/PyMacroRecord/blob/main/LICENSE.md)
 
 # Special Thanks
 

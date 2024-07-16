@@ -21,7 +21,7 @@ class NewVerAvailable(Popup):
         Button(buttonArea, text=main_app.text_content["new_version"]["ignore_button"], command=self.ignore_new_ver).pack(side=LEFT, padx=5)
         Button(buttonArea, text=main_app.text_content["new_version"]["remind_later_button"], command=self.remind_later).pack(side=LEFT, padx=5)
         Button(buttonArea, text=main_app.text_content["new_version"]["download_button"],
-               command=lambda: OpenUrl(f"https://github.com/LOUDO56/PyMacroRecord/releases/tag/v{version}")).pack(
+               command=lambda: OpenUrl(f"https://github.com/rune-scape/PyMacroRecord/releases/tag/v{version}")).pack(
             side=LEFT, padx=5)
         buttonArea.pack(side=BOTTOM, pady=10)
         self.wait_window()
