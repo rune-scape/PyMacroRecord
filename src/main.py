@@ -1,3 +1,5 @@
+#! /usr/bin/env python3
+
 from windows import MainApp
 from sys import platform
 
